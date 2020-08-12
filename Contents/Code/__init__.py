@@ -9,7 +9,7 @@ from transliterate import Transliterator
 
 # Elcinema URL defines
 ELC_BASE_URL            = 'http://www.elcinema.com/'
-ELC_SEARCH_URL          = ELC_BASE_URL + 'search/?search_for=%s&category=work'
+ELC_SEARCH_URL          = ELC_BASE_URL + '/ar/search/?q='
 ELC_WORK_URL            = ELC_BASE_URL + '%s/work/%s'                                
 
 # Variable defines
